@@ -5,5 +5,6 @@ angular.module('ofApp')
     $scope.awesomeThings = [
       'HTML5 Boilerplate',
       'AngularJS',
+      'AngularJS2',
       'Karma'
     ]
